@@ -1,0 +1,22 @@
+  {
+  "name": "homebridge-appletv",
+  "version": "0.0.1",
+  "description": "Apple TV plugin for Homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Reece Dantin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reecedantin/homebridge-appletv.git"
+  },
+  "dependencies": {
+  }
+}
